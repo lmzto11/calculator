@@ -38,14 +38,11 @@ button:hover {
     background-color: #0056b3;
 }
 div .input_container{
-   
     padding: 10px;
     margin: 10px;
-   
     font-size: 16px;
 }
 input[type="text"] {
- 
     padding: 10px;
     margin: 10px auto;
     border: 1px solid #ccc;
